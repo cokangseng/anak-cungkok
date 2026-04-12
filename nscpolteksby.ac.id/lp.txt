@@ -18,7 +18,7 @@
   <meta property="fb:app_id" content="603190801449" />
   <meta property="og:description"
     content="LANDAKTOTO merupakan  Bandar Togel Toto Macau 4D resmi terpercaya dengan prediksi akurat, link login stabil, & bonus dan hadiah melimpah." />
-  <meta property="og:url" content="https://nscpolteksby.ac.id/learningmanajemen/" />
+  <meta property="og:url" content="https://nscpolteksby.ac.id/dosen/" />
   <meta property="product:price:amount" content="5000" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="og:image" content="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png" />
@@ -47,9 +47,9 @@
     <link rel="alternate" href="https://istri-cungkok-lang.pages.dev/?lang=ko" hreflang="tr">
     <link rel="alternate" href="https://istri-cungkok-lang.pages.dev/?lang=vi" hreflang="vi">
     <link rel="alternate" href="https://istri-cungkok-lang.pages.dev/?lang=ar" hreflang="ar">      
-    <link rel="alternate" href="https://nscpolteksby.ac.id/learningmanajemen/" hreflang="x-default">
+    <link rel="alternate" href="https://nscpolteksby.ac.id/dosen/" hreflang="x-default">
 
-  <link rel="canonical" href="https://nscpolteksby.ac.id/learningmanajemen/" />
+  <link rel="canonical" href="https://nscpolteksby.ac.id/dosen/" />
   <link rel="amphtml" href="https://istri-cungkok-lang.pages.dev/" />
 
   <link rel="Shortcut icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png" />
@@ -99,7 +99,7 @@
 	  "@context": "http://schema.org",
 	  "@type": "WebSite",
 	  "name": "LANDAKTOTO",
-	  "url": "https://nscpolteksby.ac.id/learningmanajemen/"
+	  "url": "https://nscpolteksby.ac.id/dosen/"
 	 }
 </script>
   <script type="application/ld+json">
@@ -107,7 +107,7 @@
     "@context":"http://schema.org",
     "@type":"Product",
     "category":"Unity Assets & Templates",
-    "url":"https://nscpolteksby.ac.id/learningmanajemen/",
+    "url":"https://nscpolteksby.ac.id/dosen/",
     "description":"LANDAKTOTO merupakan  Bandar Togel Toto Macau 4D resmi terpercaya dengan prediksi akurat, link login stabil, & bonus dan hadiah melimpah.",
     "name":"LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!",
     "image":"https://anak-cungkok.pages.dev/fotofoto/landak-macau.png",
@@ -120,7 +120,7 @@
         "priceValidUntil":"2026-03-17T23:59:59+1:00",
         "availability":"http://schema.org/InStock",
         "itemCondition":"http://schema.org/NewCondition" ,
-        "url":"https://nscpolteksby.ac.id/learningmanajemen/"
+        "url":"https://nscpolteksby.ac.id/dosen/"
             }
 }
 </script>
@@ -133,49 +133,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Togel Online",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Situs Togel Online",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Bandar Togel Resmi",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Toto Macau",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Prediksi Toto Macau",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Macau 4D",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!",
-      "item": "https://nscpolteksby.ac.id/learningmanajemen/"
+      "item": "https://nscpolteksby.ac.id/dosen/"
     }
   ]
 }
@@ -388,7 +388,7 @@
               data-target=".navbar-collapse">
               <i class="fa fa-bars"></i>
             </button>
-            <a href="https://nscpolteksby.ac.id/learningmanajemen/" class="navbar-brand m-r-n m-l-n-md"><img
+            <a href="https://nscpolteksby.ac.id/dosen/" class="navbar-brand m-r-n m-l-n-md"><img
                 title="LANDAKTOTO" alt="LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!"
                 src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp"></a>
           </div>
@@ -399,36 +399,36 @@
 
             <ul class=" nav navbar-nav m-l-n visible-sm visible-md visible-lg visible-xl">
               <li>
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                   <span>LANDAKTOTO</span>
                 </a>
               </li>
               <li>
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <span class="">LANDAK TOTO</span>
                 </a>
               </li>
               <li>
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                   <span>TOGEL ONLINE</span>
                 </a>
               </li>
               <li class="visible-md visible-lg visible-xl">
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                   <span>SITUS TOGEL</span>
                 </a>
               </li>
               <li>
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                   <span>TOTO MACAU</span>
                 </a>
               </li>
               <li>
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                   <span>MACAU 4D</span>
                 </a>
@@ -442,7 +442,7 @@
             <ul class="nav navbar-nav m-l-n visible-xs">
 
               <li class="dropdown">
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+                <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
 
                   <span>LANDAKTOTO</span> <span class="caret"></span>
                 </a>
@@ -995,7 +995,7 @@
 
 
             <li class="dropdown">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                 <span>LANDAKTOTO</span> <span class="caret"></span>
               </a>
@@ -1205,7 +1205,7 @@
 
 
             <li class="dropdown">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                 <span>Togel</span> <span class="caret"></span>
               </a>
@@ -1389,7 +1389,7 @@
 
 
             <li class="dropdown">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                 <span>Toto Macau</span> <span class="caret"></span>
               </a>
@@ -1612,7 +1612,7 @@
 
 
             <li class="dropdown">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                 <span>Situs Togel</span> <span class="caret"></span>
               </a>
@@ -1809,7 +1809,7 @@
 
 
             <li class="dropdown">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <i class="fa fa-fw fa-plus visible-xs-inline-block"></i>
                 <span>Bandar Togel</span> <span class="caret"></span>
               </a>
@@ -1929,7 +1929,7 @@
 
 
             <li class="dropdown pos-stc">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" data-toggle="dropdown" class="dropdown-toggle">
+              <a href="https://nscpolteksby.ac.id/dosen/" data-toggle="dropdown" class="dropdown-toggle">
                 <span class="text-primary font-bold">Togel Online</span>
                 <span class="caret"></span>
               </a>
@@ -2565,14 +2565,14 @@
 
             <div class="row visible-sm visible-md visible-lg visible-xl" style="height:160px;">
               <div class="col-xs-12 m-b-md m-t-n-xs text-muted text-sm "><span class="text-left"><span><a
-                      href="https://nscpolteksby.ac.id/learningmanajemen/"><span>LANDAKTOTO</span></a></span>
-                  / <span><a href="https://nscpolteksby.ac.id/learningmanajemen/"><span>Toto
+                      href="https://nscpolteksby.ac.id/dosen/"><span>LANDAKTOTO</span></a></span>
+                  / <span><a href="https://nscpolteksby.ac.id/dosen/"><span>Toto
                         Macau</span></a></span> / <span><a
-                      href="https://nscpolteksby.ac.id/learningmanajemen/"><span>Togel
+                      href="https://nscpolteksby.ac.id/dosen/"><span>Togel
                         Online</span></a></span> /
-                  <span><a href="https://nscpolteksby.ac.id/learningmanajemen/"><span>Situs Togel
+                  <span><a href="https://nscpolteksby.ac.id/dosen/"><span>Situs Togel
                         Resmi</span></a></span> /
-                  <span><a href="https://nscpolteksby.ac.id/learningmanajemen/"><span>LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!</span></a></span></span>
+                  <span><a href="https://nscpolteksby.ac.id/dosen/"><span>LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!</span></a></span></span>
               </div>
               <div class="col-sm-8">
                 <div class="">
@@ -2965,8 +2965,8 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 <article>
 
 <h1 data-section-id="8zh5fa" data-start="76" data-end="150">LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!</h1>
-<p data-start="152" data-end="644"><strong><a title="LANDAKTOTO" href="https://nscpolteksby.ac.id/learningmanajemen/">LANDAKTOTO</a>&nbsp;</strong>hadir sebagai salah satu bandar togel online resmi yang menyediakan layanan terpercaya untuk bermain Toto Macau di tahun 2026. Dengan perkembangan teknologi digital yang semakin maju, kebutuhan akan platform yang stabil, aman, dan mudah diakses menjadi sangat penting. LANDAKTOTO dirancang untuk memenuhi kebutuhan tersebut dengan menghadirkan sistem modern yang mampu memberikan pengalaman terbaik bagi pengguna dalam mengakses berbagai informasi dan layanan terkait Toto Macau.</p>
-<p data-start="646" data-end="1062">Sebagai <a title="BANDAR TOGEL ONLINE" href="https://nscpolteksby.ac.id/learningmanajemen/"><strong>bandar togel online</strong></a> yang terus berkembang, LANDAKTOTO menawarkan berbagai keunggulan yang membuatnya menjadi pilihan banyak pengguna. Mulai dari tampilan website yang user-friendly, sistem yang responsif, hingga update data yang cepat dan akurat, semuanya dirancang untuk memberikan kenyamanan maksimal. Hal ini menjadikan LANDAKTOTO sebagai salah satu platform yang mampu bersaing di era digital saat ini.</p>
+<p data-start="152" data-end="644"><strong><a title="LANDAKTOTO" href="https://nscpolteksby.ac.id/dosen/">LANDAKTOTO</a>&nbsp;</strong>hadir sebagai salah satu bandar togel online resmi yang menyediakan layanan terpercaya untuk bermain Toto Macau di tahun 2026. Dengan perkembangan teknologi digital yang semakin maju, kebutuhan akan platform yang stabil, aman, dan mudah diakses menjadi sangat penting. LANDAKTOTO dirancang untuk memenuhi kebutuhan tersebut dengan menghadirkan sistem modern yang mampu memberikan pengalaman terbaik bagi pengguna dalam mengakses berbagai informasi dan layanan terkait Toto Macau.</p>
+<p data-start="646" data-end="1062">Sebagai <a title="BANDAR TOGEL ONLINE" href="https://nscpolteksby.ac.id/dosen/"><strong>bandar togel online</strong></a> yang terus berkembang, LANDAKTOTO menawarkan berbagai keunggulan yang membuatnya menjadi pilihan banyak pengguna. Mulai dari tampilan website yang user-friendly, sistem yang responsif, hingga update data yang cepat dan akurat, semuanya dirancang untuk memberikan kenyamanan maksimal. Hal ini menjadikan LANDAKTOTO sebagai salah satu platform yang mampu bersaing di era digital saat ini.</p>
 <h2 data-section-id="d75pw5" data-start="1064" data-end="1109">Platform Togel Online Resmi dan Terpercaya</h2>
 <p data-start="1111" data-end="1385">Kepercayaan merupakan faktor utama dalam memilih bandar togel online. LANDAKTOTO memahami hal ini dengan menghadirkan sistem yang stabil dan terpercaya. Platform ini menyediakan berbagai informasi terkait Toto Macau yang disusun secara rapi dan mudah diakses oleh pengguna.</p>
 <p data-start="1387" data-end="1448">Dengan sistem yang terintegrasi, pengguna dapat dengan mudah:</p>
@@ -3001,7 +3001,7 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 <p data-start="2911" data-end="3109">Kecepatan dalam penyajian data menjadi salah satu faktor penting dalam sebuah platform togel online. LANDAKTOTO menghadirkan sistem update real-time yang memastikan setiap informasi selalu terbaru.</p>
 <p data-start="3111" data-end="3139">Pengguna dapat dengan mudah:</p>
 <ul data-start="3140" data-end="3265">
-<li data-section-id="avqjj4" data-start="3140" data-end="3177">Melihat&nbsp;<strong><a title="hasil Toto Macau" href="https://nscpolteksby.ac.id/learningmanajemen/">hasil Toto Macau</a></strong> hari ini</li>
+<li data-section-id="avqjj4" data-start="3140" data-end="3177">Melihat&nbsp;<strong><a title="hasil Toto Macau" href="https://nscpolteksby.ac.id/dosen/">hasil Toto Macau</a></strong> hari ini</li>
 <li data-section-id="1d0tc0e" data-start="3178" data-end="3216">Mengakses data terbaru tanpa delay</li>
 <li data-section-id="19bh82h" data-start="3217" data-end="3265">Mendapatkan informasi yang selalu up-to-date</li>
 </ul>
@@ -3561,14 +3561,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Situs Togel Resmi" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Situs Togel Resmi</h2>
                                   </a>
@@ -3653,14 +3653,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Bandar Toto Macau" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Bandar Toto Macau</h2>
                                   </a>
@@ -3745,14 +3745,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Prediksi Togel Akurat" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Prediksi Togel Akurat</h2>
                                   </a>
@@ -3843,14 +3843,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Bandar Togel Terpercaya" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Bandar Togel Terpercaya</h2>
                                   </a>
@@ -3935,14 +3935,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Situs Toto Macau" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Situs Toto Macau</h2>
                                   </a>
@@ -4027,14 +4027,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Prediksi Macau 4D " class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Prediksi Macau 4D </h2>
                                   </a>
@@ -4119,14 +4119,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Situs Toto Online" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Situs Toto Online</h2>
                                   </a>
@@ -4211,14 +4211,14 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
 
 
                             <div class="clearfix item-listing-title-sm">
-                              <a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                              <a href="https://nscpolteksby.ac.id/dosen/"
                                 class="pull-left m-l-sm m-t-sm m-r-sm thumb-md ">
                                 <img src="https://anak-cungkok.pages.dev/fotofoto/landak-macau.png"
                                   alt="Prediksi Toto Macau Terbaru" class="img-rounded lazyload">
                               </a>
                               <div class="clear">
                                 <div class=" m-r-xs text-md font-bold"><a
-                                    href="https://nscpolteksby.ac.id/learningmanajemen/">
+                                    href="https://nscpolteksby.ac.id/dosen/">
                                     <h2 class="text-md font-bold m-t-sm text-ellipsis">
                                       Prediksi Toto Macau Terbaru</h2>
                                   </a>
@@ -4573,7 +4573,7 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
                 </table>
               </div>
               <div class="panel b-a text-md">
-                <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                <a href="https://nscpolteksby.ac.id/dosen/">
                   <div class="panel-heading  h-xs bg-black lter wrapper-lg"
                     style="background:url(https://anak-cungkok.pages.dev/fotofoto/landak-macau.png) center center; background-size:cover;">
 
@@ -4581,7 +4581,7 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
                 </a>
                 <div class="panel-body clearfix m-b-n-md">
                   <div class="thumb-lg m-t-n-xxl pull-left">
-                    <a href="https://nscpolteksby.ac.id/learningmanajemen/">
+                    <a href="https://nscpolteksby.ac.id/dosen/">
                       <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" alt="..."
                         class="profile-avatar-sm" alt="Unity Developer"> </a>
                   </div>
@@ -4608,7 +4608,7 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
                     alt="Featured item: Has had an item featured" title="Featured item: Has had an item featured" />
 
                 </div>
-                <div class=" b-t b-light text-center panel-body"><a href="https://nscpolteksby.ac.id/learningmanajemen/"
+                <div class=" b-t b-light text-center panel-body"><a href="https://nscpolteksby.ac.id/dosen/"
                     class="btn btn-default btn-block">View
                     author's profile</a></div>
 
@@ -4642,31 +4642,31 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
                   <div class="row-sm m-t-md">
                     <div class="col-md-6">
                       <a rel="nofollow" target="_blank" class="btn btn-block btn-md btn-facebook"
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://nscpolteksby.ac.id/learningmanajemen/"><i
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://nscpolteksby.ac.id/dosen/"><i
                           class="fa fa-facebook fa-fw"></i> Facebook</a>
                     </div>
                     <div class="col-md-6 m-b-sm">
                       <a rel="nofollow" target="_blank" class="btn btn-block btn-md btn-twitter"
-                        href="https://twitter.com/home?status=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!! - https://nscpolteksby.ac.id/learningmanajemen/ via @codesterhq"><i
+                        href="https://twitter.com/home?status=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!! - https://nscpolteksby.ac.id/dosen/ via @codesterhq"><i
                           class="fa  fa-twitter fa-fw"></i> Twitter</a>
                     </div>
                   </div>
                   <div class="row-sm  m-b-sm">
                     <div class="col-md-6 m-b-sm">
                       <a rel="nofollow" target="_blank" class="btn btn-block btn-md btn-googleplus"
-                        href="https://plus.google.com/share?url=https://nscpolteksby.ac.id/learningmanajemen/"><i
+                        href="https://plus.google.com/share?url=https://nscpolteksby.ac.id/dosen/"><i
                           class="fa fa-google-plus fa-fw"></i> Google+</a>
                     </div>
                     <div class="col-md-6  m-b-sm">
                       <a rel="nofollow" target="_blank" class="btn btn-block btn-md btn-pinterest"
-                        href="https://pinterest.com/pin/create/button/?url=https://nscpolteksby.ac.id/learningmanajemen/&media=https://anak-cungkok.pages.dev/fotofoto/landak-macau.png&description=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!"><i
+                        href="https://pinterest.com/pin/create/button/?url=https://nscpolteksby.ac.id/dosen/&media=https://anak-cungkok.pages.dev/fotofoto/landak-macau.png&description=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!"><i
                           class="fa fa-pinterest fa-fw"></i> Pinterest</a>
                     </div>
                   </div>
                   <div class="row-sm">
                     <div class="col-md-6  m-b-sm">
                       <a rel="nofollow" target="_blank" class="btn btn-block btn-md btn-linkedin"
-                        href="https://www.linkedin.com/shareArticle?mini=true&url=https://nscpolteksby.ac.id/learningmanajemen/&title=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!&summary=&source="><i
+                        href="https://www.linkedin.com/shareArticle?mini=true&url=https://nscpolteksby.ac.id/dosen/&title=LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!&summary=&source="><i
                           class="fa fa-lg fa-linkedin fa-fw"></i> Linkedin</a>
                     </div>
                     <div class="col-md-6  m-b-sm">
@@ -4675,7 +4675,7 @@ document.itemmenuform.SelectSection.options[document.itemmenuform.SelectSection.
                           class="fa fa-envelope-o fa-fw"></i> Email</a>
                     </div>
                   </div>
-                  <input type="text" class="w-full m-t-sm " value="https://nscpolteksby.ac.id/learningmanajemen/"
+                  <input type="text" class="w-full m-t-sm " value="https://nscpolteksby.ac.id/dosen/"
                     onClick="if (!window.__cfRLUnblockHandlers) return false; this.select();" name="ref-url"
                     data-cf-modified-53b22d5cb8f122faabed3cf5-="">
 
@@ -4777,7 +4777,7 @@ function facebookLogin()
                           Sign up with
                           Facebook</button>
                         <form
-                          action="/sign_up/?redirectURL=https://nscpolteksby.ac.id/learningmanajemen/&#63;purchasepanel=true"
+                          action="/sign_up/?redirectURL=https://nscpolteksby.ac.id/dosen/&#63;purchasepanel=true"
                           method="post" class="form-validation">
                           <p class="link-info  text-center m-t-sm m-b">or <a rel="nofollow" href="#signup-email"
                               class="" data-toggle="collapse">Sign up
@@ -5048,7 +5048,7 @@ function facebookLogin()
           <div class="col-sm-3">
             <h4 class=" m-b-xl text-white font-thin"><span class="font-bold">Follow</span> us</h4>
             <div class="m-b-xl">
-              <a href="https://nscpolteksby.ac.id/learningmanajemen/" target="_blank" rel="nofollow">
+              <a href="https://nscpolteksby.ac.id/dosen/" target="_blank" rel="nofollow">
                 <img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="Toto Macau"
                   style="width: 200px;"></a>
             </div>
