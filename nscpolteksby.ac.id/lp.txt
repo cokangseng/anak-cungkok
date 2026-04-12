@@ -108,7 +108,7 @@
     "@type":"Product",
     "category":"Unity Assets & Templates",
     "url":"https://nscpolteksby.ac.id/learningmanajemen/",
-    "description":LANDAKTOTO merupakan  Bandar Togel Toto Macau 4D 4D resmi terpercaya dengan prediksi akurat, link login stabil, & bonus dan hadiah melimpah.",
+    "description":"LANDAKTOTO merupakan  Bandar Togel Toto Macau 4D resmi terpercaya dengan prediksi akurat, link login stabil, & bonus dan hadiah melimpah.",
     "name":"LANDAKTOTO ✈️  Bandar Togel Toto Macau 4D terpercaya & Akses Alternatif Stabil!!",
     "image":"https://anak-cungkok.pages.dev/fotofoto/landak-macau.png",
     "brand":{"@type":"Brand","name":"UnityDev"},
